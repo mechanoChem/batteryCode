@@ -17,6 +17,7 @@ To look around or run one application please switch to the correspding branch.
 Currently we have:
 
 1.homogenzed model 
+
  Note: original_code is old code for paper Z. Wang, J. Siegel, K. Garikipati, “Intercalation driven porosity effects on the electro-chemo-thermo-mechanical response in continuum models for battery material electrodes”. 
  
 2.particle model (coming soon)
