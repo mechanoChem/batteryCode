@@ -1,0 +1,9 @@
+/Users/wzhenlin/workspace/GitLab/batteryCode/application/porousModel/CMakeFiles/debug.dir
+/Users/wzhenlin/workspace/GitLab/batteryCode/application/porousModel/CMakeFiles/distclean.dir
+/Users/wzhenlin/workspace/GitLab/batteryCode/application/porousModel/CMakeFiles/info.dir
+/Users/wzhenlin/workspace/GitLab/batteryCode/application/porousModel/CMakeFiles/main.dir
+/Users/wzhenlin/workspace/GitLab/batteryCode/application/porousModel/CMakeFiles/release.dir
+/Users/wzhenlin/workspace/GitLab/batteryCode/application/porousModel/CMakeFiles/run.dir
+/Users/wzhenlin/workspace/GitLab/batteryCode/application/porousModel/CMakeFiles/runclean.dir
+/Users/wzhenlin/workspace/GitLab/batteryCode/application/porousModel/CMakeFiles/sign.dir
+/Users/wzhenlin/workspace/GitLab/batteryCode/application/porousModel/CMakeFiles/strip_comments.dir

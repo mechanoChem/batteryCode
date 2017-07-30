@@ -1,0 +1,16 @@
+template <int dim>
+void battery<dim>::assemble_system()
+{
+  std::cout<<"begin assemble_system"<<std::endl;
+  system_matrix=0; system_rhs=0; //boundary_values.clear();
+	
+  const unsigned int n_threads=multithread_info.n_default_threads;
+  Threads::ThreadGroup<> threads;
+  typedef typename hp::DoFHandler<dim>::active_cell_iterator active_cell_iterator;
+  std::vector<std::pair<active_cell_iterator,active_cell_iterator> > thread_ranges = Threads::split_range<active_cell_iterator> (dof_handler.begin_active (), dof_handler.end (), n_threads);
+  for (unsigned int thread=0; thread<n_threads; ++thread){
+    threads += Threads::new_thread (&battery<dim>::assemble_system_interval, *this, thread_ranges[thread].first, thread_ranges[thread].second);
+    threads.join_all ();
+  }
+  std::cout<<"finish assemble_system"<<std::endl;
+}
