@@ -27,6 +27,7 @@ License
 GNU Lesser General Public License (LGPL). Please see the file LICENSE for details.
 
 Acknowledgements
+====================================================================
 The work was funded in part by Advanced Research
 Projects AgencyEnergy (ARPA-E), U.S. Department of Energy, under Award #DE-AR0000269. The computations have been carried out on the Flux computing cluster at University of Michigan, using hardware resources supported by the U.S. Department of Energy, Office of Basic Energy Sciences, Division of Materials Sciences and Engineering under Award #DE-SC0008637 that funds the PRedictive Integrated Structural Materials Science (PRISMS) Center at University of Michigan.
 
