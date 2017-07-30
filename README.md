@@ -12,12 +12,13 @@ Overview
 
 batteryCode is based on deal.ii (www.dealii.org). It consists of four four modules. 1. battey_base provide generic finite element code; 2. model consists of mechanics at finite strain, reaction-diffusion equations and Possion equations; 3. ElectricChemoExpression provides electric-chemical formulations e.g. Butler-Volmer equations. 4. Application consists of specific application.
 
-To run one application please switch to the correspding branch. Then goes to application/
+To look around or run one application please switch to the correspding branch.
 
 Currently we have:
 
 1.homogenzed model 
  Note: original_code is old code for paper Z. Wang, J. Siegel, K. Garikipati, “Intercalation driven porosity effects on the electro-chemo-thermo-mechanical response in continuum models for battery material electrodes”. 
+ 
 2.particle model (coming soon)
 
 License
@@ -28,7 +29,7 @@ Acknowledgements
 The work was funded in part by Advanced Research
 Projects AgencyEnergy (ARPA-E), U.S. Department of Energy, under Award #DE-AR0000269. The computations have been carried out on the Flux computing cluster at University of Michigan, using hardware resources supported by the U.S. Department of Energy, Oce of Basic Energy Sciences, Division of Materials Sciences and Engineering under Award #DE-SC0008637 that funds the PRedictive Integrated Structural Materials Science (PRISMS) Center at University of Michigan.
 
-Installation with cmake:
+Usage
 ====================================================================
 Install pre-required libs:
 Install CMake [http://www.cmake.org/download/]
@@ -38,6 +39,8 @@ Install deal.II (version 8.4.1 and up) with Trilinos and Petsc [www.dealii.org/d
 Install Trillions [https://trilinos.org/]
 
 Install Petsc [https://www.mcs.anl.gov/petsc/]
+
+Goes to application/...Model/build
 
 $ cmake CMakeLists.txt
 
