@@ -8,11 +8,12 @@ Krishna Garikipati
 
 
 Overview
+====================================================================
 
 batteryCode is based on deal.ii (www.dealii.org). It consists of four four modules. 1. battey_base provide generic finite element code; 2. model consists of mechanics at finite strain, reaction-diffusion equations and Possion equations; 3. ElectricChemoExpression provides electric-chemical formulations e.g. Butler-Volmer equations. 4. Application consists of specific application.
 
 To run one application please switch to the correspding branch. Then goes to application/
-====================================================================
+
 Currently we have:
 
 1.homogenzed model 
@@ -20,7 +21,7 @@ Currently we have:
 2.particle model (coming soon)
 
 License
-
+====================================================================
 GNU Lesser General Public License (LGPL). Please see the file LICENSE for details.
 
 Acknowledgements
@@ -28,7 +29,7 @@ The work was funded in part by Advanced Research
 Projects AgencyEnergy (ARPA-E), U.S. Department of Energy, under Award #DE-AR0000269. The computations have been carried out on the Flux computing cluster at University of Michigan, using hardware resources supported by the U.S. Department of Energy, Oce of Basic Energy Sciences, Division of Materials Sciences and Engineering under Award #DE-SC0008637 that funds the PRedictive Integrated Structural Materials Science (PRISMS) Center at University of Michigan.
 
 Installation with cmake:
-
+====================================================================
 Install pre-required libs:
 Install CMake [http://www.cmake.org/download/]
 
@@ -46,7 +47,7 @@ $ make run
 
 
 Reference
-
+====================================================================
 If you write a paer using results obtained with the help of this code, please consider citing one or more of the following:
 
 For use of homogenized model:
