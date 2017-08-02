@@ -1,4 +1,4 @@
-openIGA code: modelling coupled electrostatic, chemical, thermal and mechanical processes in battery materials
+Battery code: modelling coupled electrostatic, chemical, thermal and mechanical processes in battery materials
 
 List of contributors:
 
