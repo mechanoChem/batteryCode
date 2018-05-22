@@ -1,0 +1,11 @@
+/Users/wzhenlin/GitLab/researchCode/batteryCode_paroblic/application/porosityModel/build/CMakeFiles/rebuild_cache.dir
+/Users/wzhenlin/GitLab/researchCode/batteryCode_paroblic/application/porosityModel/build/CMakeFiles/edit_cache.dir
+/Users/wzhenlin/GitLab/researchCode/batteryCode_paroblic/application/porosityModel/build/CMakeFiles/info.dir
+/Users/wzhenlin/GitLab/researchCode/batteryCode_paroblic/application/porosityModel/build/CMakeFiles/strip_comments.dir
+/Users/wzhenlin/GitLab/researchCode/batteryCode_paroblic/application/porosityModel/build/CMakeFiles/distclean.dir
+/Users/wzhenlin/GitLab/researchCode/batteryCode_paroblic/application/porosityModel/build/CMakeFiles/runclean.dir
+/Users/wzhenlin/GitLab/researchCode/batteryCode_paroblic/application/porosityModel/build/CMakeFiles/main.dir
+/Users/wzhenlin/GitLab/researchCode/batteryCode_paroblic/application/porosityModel/build/CMakeFiles/run.dir
+/Users/wzhenlin/GitLab/researchCode/batteryCode_paroblic/application/porosityModel/build/CMakeFiles/release.dir
+/Users/wzhenlin/GitLab/researchCode/batteryCode_paroblic/application/porosityModel/build/CMakeFiles/sign.dir
+/Users/wzhenlin/GitLab/researchCode/batteryCode_paroblic/application/porosityModel/build/CMakeFiles/debug.dir
